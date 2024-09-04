@@ -1,0 +1,502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\dal\\dao\\branchdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:dal\\dao\\branchdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CaseStudyDB/True/SqlTable/dbo.Customers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\dal\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:dal\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\dal\\domainclasses\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:dal\\domainclasses\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\helpers\\orderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:helpers\\orderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\dal\\domainclasses\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:dal\\domainclasses\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yigit\\AppData\\Local\\Temp\\mpgftro4..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CaseStudyDB/True/SqlTable/dbo.Branches.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\helpers\\orderdetailshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:helpers\\orderdetailshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\dal\\domainclasses\\orderlineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:dal\\domainclasses\\orderlineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\helpers\\orderselectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:helpers\\orderselectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CaseStudyDB/True/SqlTable/dbo.Brands.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\dal\\dao\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:dal\\dao\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CaseStudyDB/True/SqlTable/dbo.OrderLineItems.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\dal\\domainclasses\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:dal\\domainclasses\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\helpers\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:helpers\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\dal\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:dal\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\dal\\dao\\branddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:dal\\dao\\branddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\dal\\datautility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:dal\\datautility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\dal\\domainclasses\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:dal\\domainclasses\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\dal\\domainclasses\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:dal\\domainclasses\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|c:\\users\\yigit\\onedrive\\belgeler\\3181\\casestudy\\migrations\\20240810164100_o01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8C1A72-028F-4279-BEBA-A5693FEDF40F}|CaseStudy.csproj|solutionrelative:migrations\\20240810164100_o01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1042,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BranchDAO.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DAO\\BranchDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\DAO\\BranchDAO.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DAO\\BranchDAO.cs",
+              "RelativeToolTip": "DAL\\DAO\\BranchDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T23:08:00.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Branches [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CaseStudyDB/True/SqlTable/dbo.Branches.sql",
+              "ToolTip": "dbo.Branches [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-10T23:05:44.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:59:55.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DomainClasses\\Branch.cs",
+              "RelativeDocumentMoniker": "DAL\\DomainClasses\\Branch.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DomainClasses\\Branch.cs",
+              "RelativeToolTip": "DAL\\DomainClasses\\Branch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:59:36.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\yigit\\AppData\\Local\\Temp\\mpgftro4..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\mpgftro4..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-10T22:54:49.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderLineItem.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DomainClasses\\OrderLineItem.cs",
+              "RelativeDocumentMoniker": "DAL\\DomainClasses\\OrderLineItem.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DomainClasses\\OrderLineItem.cs",
+              "RelativeToolTip": "DAL\\DomainClasses\\OrderLineItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:50:02.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DomainClasses\\Order.cs",
+              "RelativeDocumentMoniker": "DAL\\DomainClasses\\Order.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DomainClasses\\Order.cs",
+              "RelativeToolTip": "DAL\\DomainClasses\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:19:13.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderHelper.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Helpers\\OrderHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\OrderHelper.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Helpers\\OrderHelper.cs",
+              "RelativeToolTip": "Helpers\\OrderHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:49:52.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwCAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:47:33.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DAO\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\DAO\\OrderDAO.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DAO\\OrderDAO.cs",
+              "RelativeToolTip": "DAL\\DAO\\OrderDAO.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAApwDAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T17:26:14.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.OrderLineItems [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CaseStudyDB/True/SqlTable/dbo.OrderLineItems.sql",
+              "ToolTip": "dbo.OrderLineItems [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-10T15:23:40.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAApwD4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:16:29.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Customers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CaseStudyDB/True/SqlTable/dbo.Customers.sql",
+              "ToolTip": "dbo.Customers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-22T19:28:30.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BranchController.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Controllers\\BranchController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BranchController.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Controllers\\BranchController.cs",
+              "RelativeToolTip": "Controllers\\BranchController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T23:16:58.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAwwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:45:29.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDetailsHelper.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Helpers\\OrderDetailsHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\OrderDetailsHelper.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Helpers\\OrderDetailsHelper.cs",
+              "RelativeToolTip": "Helpers\\OrderDetailsHelper.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:15:44.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserHelper.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Helpers\\UserHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\UserHelper.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Helpers\\UserHelper.cs",
+              "RelativeToolTip": "Helpers\\UserHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:11:21.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Brands [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CaseStudyDB/True/SqlTable/dbo.Brands.sql",
+              "ToolTip": "dbo.Brands [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-10T17:44:06.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DAO\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\DAO\\CustomerDAO.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DAO\\CustomerDAO.cs",
+              "RelativeToolTip": "DAL\\DAO\\CustomerDAO.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAnwBMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:11:50.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderSelectionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Helpers\\OrderSelectionHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\OrderSelectionHelper.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Helpers\\OrderSelectionHelper.cs",
+              "RelativeToolTip": "Helpers\\OrderSelectionHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:47:08.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240810164100_o01.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Migrations\\20240810164100_o01.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240810164100_o01.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Migrations\\20240810164100_o01.cs",
+              "RelativeToolTip": "Migrations\\20240810164100_o01.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:41:00.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DomainClasses\\Customer.cs",
+              "RelativeDocumentMoniker": "DAL\\DomainClasses\\Customer.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DomainClasses\\Customer.cs",
+              "RelativeToolTip": "DAL\\DomainClasses\\Customer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:06:22.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DAO\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\DAO\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DAO\\ProductDAO.cs",
+              "RelativeToolTip": "DAL\\DAO\\ProductDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:10:13.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwBoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:08:49.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BrandDAO.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DAO\\BrandDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\DAO\\BrandDAO.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DAO\\BrandDAO.cs",
+              "RelativeToolTip": "DAL\\DAO\\BrandDAO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:03:15.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:04:42.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DomainClasses\\Product.cs",
+              "RelativeDocumentMoniker": "DAL\\DomainClasses\\Product.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DomainClasses\\Product.cs",
+              "RelativeToolTip": "DAL\\DomainClasses\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:49:23.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DataUtility.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DataUtility.cs",
+              "RelativeDocumentMoniker": "DAL\\DataUtility.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DataUtility.cs",
+              "RelativeToolTip": "DAL\\DataUtility.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:35:23.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:19:00.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DomainClasses\\Brand.cs",
+              "RelativeDocumentMoniker": "DAL\\DomainClasses\\Brand.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\DAL\\DomainClasses\\Brand.cs",
+              "RelativeToolTip": "DAL\\DomainClasses\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:47:17.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Belgeler\\3181\\CaseStudy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:33:02.43Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
