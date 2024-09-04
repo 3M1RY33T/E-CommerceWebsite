@@ -1,4 +1,4 @@
-# E-CommerceWebsite
+# E-Commerce Website
 
 This project is an online shopping website that uses Vue, Quasar and Node.js for its client-side operations, 
 and .NET implementing MVC pattern for its server-side operations.
